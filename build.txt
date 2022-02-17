@@ -1,0 +1,3 @@
+displayName = Gashapon
+author = Xwilarg
+version = 0.1
